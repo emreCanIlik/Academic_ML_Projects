@@ -1,4 +1,5 @@
-1 - Master's Thesis
+1 - Master's Thesis:
+
 Industry 4.0 denotes the trend toward utilizing data-centric, automated systems in production technologies facilitated by 
 cutting-edge technologies like the Internet of Things and artificial intelligence. With the availability of data and strong 
 hardware, machine learning can handle complex problems in production.
