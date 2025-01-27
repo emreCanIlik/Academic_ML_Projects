@@ -32,6 +32,7 @@ Since the advent of convolutional neural networks (CNNs), numerous innovative id
 
 
 
+
 3 - Master Seminar at IISM, KIT: Deep Reinforcement Learning Experiments in the Collector Environment
 
 Deep Reinforcement Learning (DRL) has emerged as a critical area in the field of Artificial Intelligence, showcasing its potential in solving complex decision-making problems. Grid-world environments serve as valuable tools for researchers to conduct Reinforcement Learning experiments and evaluate the effectiveness of various algorithms in a controlled and interpretable setting. Among these, the collector environment—a grid-based simulation—provides a platform where an agent navigates through a grid world to complete assigned tasks. This environment not only facilitates experimentation but also enables benchmarking the performance of DRL algorithms.
