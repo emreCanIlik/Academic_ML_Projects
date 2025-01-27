@@ -30,7 +30,10 @@ Since the advent of convolutional neural networks (CNNs), numerous innovative id
 
 
 
+
+
 3 - Master Seminar at IISM, KIT: Deep Reinforcement Learning Experiments in the Collector Environment
+
 Deep Reinforcement Learning (DRL) has emerged as a critical area in the field of Artificial Intelligence, showcasing its potential in solving complex decision-making problems. Grid-world environments serve as valuable tools for researchers to conduct Reinforcement Learning experiments and evaluate the effectiveness of various algorithms in a controlled and interpretable setting. Among these, the collector environment—a grid-based simulation—provides a platform where an agent navigates through a grid world to complete assigned tasks. This environment not only facilitates experimentation but also enables benchmarking the performance of DRL algorithms.
 
 Deep Q-Network (DQN) and Proximal Policy Optimization (PPO) are two widely recognized DRL algorithms in the literature, known for their efficiency and robustness in various environments. This study focuses on utilizing the collector environment to conduct comprehensive DRL experiments with these algorithms. The experiments include implementing DQN and PPO, benchmarking their performance, and systematically modifying the training environment. By doing so, this research aims to observe and analyze how changes in the environment influence the agents' behavior and performance, providing valuable insights into the dynamics of DRL algorithms in grid-based settings.
