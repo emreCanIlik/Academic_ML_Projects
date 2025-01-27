@@ -1,4 +1,4 @@
--- Master's Theis wbk Institute of Production Science, KIT: Process Monitoring in Additive Manufacturing Through Machine Learning
+-- **Master's Theis wbk Institute of Production Science, KIT: Process Monitoring in Additive Manufacturing Through Machine Learning**
 
 Industry 4.0 denotes the trend toward utilizing data-centric, automated systems in production technologies facilitated by 
 cutting-edge technologies like the Internet of Things and artificial intelligence. With the availability of data and strong 
